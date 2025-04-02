@@ -8,10 +8,12 @@ A Solutions of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/knerd1/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/knerd1/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/knerd1/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/knerd1/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/knerd1/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/knerd1/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
