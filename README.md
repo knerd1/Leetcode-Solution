@@ -7,6 +7,7 @@ A Solutions of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/knerd1/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/knerd1/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0540-single-element-in-a-sorted-array](https://github.com/knerd1/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -20,4 +21,8 @@ A Solutions of LeetCode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/knerd1/Leetcode-Solution/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/knerd1/Leetcode-Solution/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
