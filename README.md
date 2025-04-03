@@ -28,10 +28,12 @@ A Solutions of LeetCode questions
 | ------- |
 | [0031-next-permutation](https://github.com/knerd1/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0680-valid-palindrome-ii](https://github.com/knerd1/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/knerd1/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/knerd1/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/knerd1/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
