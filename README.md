@@ -27,4 +27,13 @@ A Solutions of LeetCode questions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/knerd1/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0680-valid-palindrome-ii](https://github.com/knerd1/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/knerd1/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/knerd1/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
