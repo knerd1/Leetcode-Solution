@@ -7,6 +7,7 @@ A Solutions of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/knerd1/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/knerd1/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/knerd1/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/knerd1/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/knerd1/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -26,6 +27,7 @@ A Solutions of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/knerd1/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/knerd1/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0680-valid-palindrome-ii](https://github.com/knerd1/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/knerd1/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
