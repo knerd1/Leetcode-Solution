@@ -39,10 +39,15 @@ A Solutions of LeetCode questions
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/knerd1/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/knerd1/Leetcode-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/knerd1/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/knerd1/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/knerd1/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/knerd1/Leetcode-Solution/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
